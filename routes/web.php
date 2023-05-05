@@ -21,8 +21,3 @@ Route::get('/', function () {
     return view('welcome');
 });
 
-
-rekljgtrhlkjefkbfjjjjjjjjjjjjbjrjrbfejf
-efkejfbjer
-ejejrbej
-ejbjeb
