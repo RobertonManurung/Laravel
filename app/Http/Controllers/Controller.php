@@ -10,3 +10,14 @@ class Controller extends BaseController
 {
     use AuthorizesRequests, ValidatesRequests;
 }
+
+
+
+
+
+
+
+
+
+oijfhdjkl;wjflw;ejhiukjhrdb23
+uygehjgefrwewpeoidfhushdghsbdnsv
