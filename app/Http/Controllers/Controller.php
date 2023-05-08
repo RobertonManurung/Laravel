@@ -8,6 +8,10 @@ use Illuminate\Routing\Controller as BaseController;
 
 class Controller extends BaseController
 {
+
+    Route::get('/', function() {
+        return view('welcome');
+    })
     use AuthorizesRequests, ValidatesRequests;
 }
 
@@ -17,4 +21,3 @@ class Controller extends BaseController
 
 
 
-hdegsdfjbvyb ruuvbv bi
