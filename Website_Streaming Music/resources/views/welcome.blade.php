@@ -2196,13 +2196,3 @@ var edgtfLike = {"ajaxurl":"https:\/\/shuffle.qodeinteractive.com\/wp-admin\/adm
 	</script>
 </body>
 </html>
-
-
-
-
-
-
-
-
-
-uh8yhuiiju8h
